@@ -1644,7 +1644,7 @@ class MOEGenericMeter(SubmittableMeter):
     def last_indications_date(self) -> Optional[date]:
         last_indications_date = self._data.get('dt_last_indication')
         if last_indications_date:
-            last_indications_date = str(last_indications_date).replace(' ', 'T', 1).rstrip('0').rstrip('.')
+            last_indications_date = str(last_indications_date).replace(' ', 'T', 1)
             return datetime.fromisoformat(last_indications_date).date()
 
     @property
