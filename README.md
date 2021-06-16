@@ -1,10 +1,28 @@
+# ❗❗❗ ВНИМАНИЕ ❗❗❗
+Данный репозиторий является архивным. Последующее развитие концепции доступа к ЛК доступно в проекте:
+[alryaz/hass-lkcomu-interrao](https://github.com/alryaz/hass-lkcomu-interrao).
+
+Интеграция `lkcomu_interrao` обладает аналогичным функционалом,
+и поддерживает гораздо больше поставщиков и личных кабинетов. Среди них:
+- Томскэнергосбыт / ТомскРТС
+- Саратовэнерго
+- Башэнергосбыт (Уфа)
+- Тамбовский энергосбыт
+- Алтайский энергосбыт (г. Барнаул и др.)
+- Энергосбыт "Волга" (г. Владимир)
+- Северная Сбытовая Компания (ССК) (г. Вологда)
+
+Благодарю всех, кто участвовал в развитии данного проекта.
+# ❗❗❗ ВНИМАНИЕ ❗❗❗
+
+
 [<img src="https://raw.githubusercontent.com/alryaz/hass-mosenergosbyt/master/images/header.png" height="100">](https://my.mosenergosbyt.ru/)
 # _Мосэнергосбыт_ для HomeAssistant
 > Предоставление информации о текущем состоянии ваших аккаунтов в Мосэнергосбыт.
 >
 >[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 >[![Лицензия](https://img.shields.io/badge/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
->[![Поддержка](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D0%B5%D1%82%D1%81%D1%8F%3F-%D0%B4%D0%B0-green.svg)](https://github.com/alryaz/hass-mosenergosbyt/graphs/commit-activity)
+>[![Поддержка](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D0%B5%D1%82%D1%81%D1%8F%3F-%D0%BD%D0%B5%D1%82-red.svg)](https://github.com/alryaz/hass-mosenergosbyt/graphs/commit-activity)
 >
 >[![Пожертвование Yandex](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B6%D0%B5%D1%80%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-Yandex-red.svg)](https://money.yandex.ru/to/410012369233217)
 >[![Пожертвование PayPal](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B6%D0%B5%D1%80%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-Paypal-blueviolet.svg)](https://www.paypal.me/alryaz)
